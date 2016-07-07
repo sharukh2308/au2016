@@ -14,7 +14,6 @@ public class MainClass {
 			Integer b=input.nextInt();
 			System.out.println("Enter option");
 			System.out.println("1.Add\n2.Subtract\n3.Multiply\n4.Divide\n5.Modulus");
-			System.out.println("Simple?");
 			Integer opt=input.nextInt();
 			
 			switch(opt){
